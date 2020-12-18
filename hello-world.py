@@ -1,2 +1,4 @@
 print ("hello world")
-print("ilk deneme"
+print("ilk deneme")
+print("ikinci deneme")
+
